@@ -63,6 +63,21 @@
           34.04115615806409
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Musician",
+        "Name": "Victor Burenko",
+        "Description": "Drummer/iOSMusician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.72484588623047,
+          43.58810023846606
+        ]
+      }
     }
   ]
 }
